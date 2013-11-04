@@ -1,0 +1,25 @@
+Zusatzaufgabe 1) Verstärkerdesign
+
+Es soll ein Verstärker entwickelt werden der folgende Bedingungen erfüllt:
+
+Vu=>40dB +/-1dB unter folgenden Bedingungen:
+Rq >= 50kΩ, Frequenzbereich 10Hz – 1MHz
+Ra <= 10kΩ
+
+Zur Verfügung stehen folgende Transistortypen:
+Bipolar: BC550C, BC 560C
+JFET:    BF 245, J 310
+
+Es soll eine minimale Anzahl von Transistoren verwendet werden.
+Die Speisespannung beträgt 24V.
+Es soll eine Ausgangsamplitude von min. 6Vpp erreicht werden.
+
+Aufgabe:
+
+Es sollen die Überlegungen zur Schaltungskonzeptwahl dargestellt werden.
+Sowie alternative Konzepte erläutert werden.
+
+Die Dimensionierungs Berechungen sollen dargestellt werden.
+
+Die Berechnungen sollen mit der TINA Simulation überprüft werden und anhand
+von Messungen zusätzlich verifiziert werden.
